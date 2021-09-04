@@ -1,1 +1,2 @@
-./tecnicofs inputfile outputfile numberthreads typeofsync
+Manage a file system using threads and different thread locks
+Run: ./tecnicofs inputFile outputfile numThreads lockstyle
