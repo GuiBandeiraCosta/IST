@@ -1,0 +1,3 @@
+Need to have the server running
+
+Run: ./tecnicofs-client inputfile nomedosocketserver
