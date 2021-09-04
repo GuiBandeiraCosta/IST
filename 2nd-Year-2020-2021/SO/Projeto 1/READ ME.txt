@@ -1,0 +1,1 @@
+./tecnicofs inputfile outputfile numberthreads typeofsync
